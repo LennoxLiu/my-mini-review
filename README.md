@@ -6,4 +6,4 @@ Understanding neural connectivity is pivotal for investigating the mechanisms un
 ## Author's comment
 
 *Given the interdisciplinary nature of computational neuroscience, this review is tailored for researchers with backgrounds in mathematics, biology, physics, or computer science. I have made a deliberate effort to ensure that the content is accessible and comprehensible to individuals with expertise in any of these fields.*
-
+*Special thanks to my supervisors R.M. and A.G. for their detailed comments.*
